@@ -1,6 +1,6 @@
 
-#Assignment: Caching the inverse of a matrix
-##Submission by Tom Schaffer
+# Assignment: Caching the inverse of a matrix
+## Submission by Tom Schaffer
 
 Within this repo is the R code for my peer graded assignment, corresponding to Week 3 of the R programming unit for the Johns Hopkins Data Science Coursera course.
 
